@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f35b195e0f14b34895860b4d93ff737, type: 3}
+  m_Name: New Rain Of Terror
+  m_EditorClassIdentifier: 
+  name: Rain of Terror
+  cooldownTime: 1
+  activeTime: 0
+  chargeTime: 0
+  doubleTapLimit: 0
+  pressCount: 1
+  gate: {fileID: 5995636291122981904, guid: 13ef82815c2465b489c179583e300a4b, type: 3}
